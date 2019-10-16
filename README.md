@@ -1,5 +1,5 @@
 # Hash
-A Program in java to convert plain text into hash. 
+In this repositer java to convert plain text into hash. 
 
 # How to use 
 1. Download Main.java file
